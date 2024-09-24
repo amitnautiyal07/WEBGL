@@ -1,4 +1,3 @@
-![](./public/space-invaders-hero.svg)
 
 # Realtime multiplayer game of Space Invaders
 
